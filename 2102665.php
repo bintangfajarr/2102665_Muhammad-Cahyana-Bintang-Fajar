@@ -1,2 +1,5 @@
-nama Muhammad Cahyana Bintang Fajar
-nim 2102665
+<?php
+
+echo "Muhammad Cahyana Bintang Fajar 2102665"
+
+?>
